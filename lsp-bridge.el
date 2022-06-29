@@ -315,6 +315,8 @@ Then LSP-Bridge will start by gdb, please send new issue with `*lsp-bridge*' buf
     ((sh-mode) . "bash-language-server")
     ((css-mode) . "vscode-css-language-server")
     (elm-mode . "elm-language-server")
+    (zeek-mode . "zeek-language-server")
+    (nickel-mode . "nickel-language-server")
     (php-mode . "intelephense")
     (yaml-mode . "yaml-language-server")
     (zig-mode . "zls")

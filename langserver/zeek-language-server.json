@@ -1,0 +1,8 @@
+{
+  "name": "zeek-language-server",
+  "languageId": "zeek",
+  "command": [
+    "elm-language-server"
+  ],
+  "settings": {}
+}

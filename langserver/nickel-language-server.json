@@ -1,0 +1,8 @@
+{
+  "name": "nickel-language-server",
+  "languageId": "nickel",
+  "command": [
+    "nls",
+  ],
+  "settings": {}
+}
